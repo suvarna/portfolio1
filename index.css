@@ -24,8 +24,7 @@ h1{
 .span{
 	color: white;
 	display: inline-block;
-	border-top-left-radius: 50px;
-	border-bottom-right-radius: 50px;
+	
 	padding: 10px 10px 10px 10px;
 	border: white solid 8px;
 	
