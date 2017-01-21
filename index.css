@@ -61,15 +61,16 @@ header{
 }
 
 #p02 {
-    color: darkslategrey;
+   color: darkslategrey;
 	text-align: center;
-	font-size: 21px;
-	padding-top: 15px;
+	padding-bottom: 40px;
+	margin-right: 20%;
+	margin-left: 20%;
 	line-height: 30px;
-	justify-content: center;
-	margin-left: 300px;
-	margin-right: 300px;
+	font-size: 21px;
+	
 }
+
 
 @media only screen and (max-width: 750px) {
     header {
@@ -78,3 +79,8 @@ header{
     	height: 100%;
 		
     }
+	
+	
+	
+	
+	
