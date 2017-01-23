@@ -46,16 +46,18 @@ header{
 	justify-content: center;
 	display: flex;
 	margin: 0 auto;
-	padding: 30px;
+	border: dimgrey solid 8px;
+	
+	
 }
 
 #p01 {
-    color: black;
+    color: dimgray;
 	text-align: center;
 	font-size: 20px;
 	padding-top: 40px;
 	padding-bottom: 40px;
-	text-shadow: 2px 1px dimgrey;
+	text-shadow: 1px 1px dimgrey;
 
 	
 }
@@ -68,6 +70,7 @@ header{
 	margin-left: 20%;
 	line-height: 30px;
 	font-size: 21px;
+	padding-top: 20px;
 	
 }
 
@@ -79,6 +82,15 @@ header{
     	height: 100%;
 		
     }
+	
+	
+	
+
+	
+	
+	
+
+	 
 	
 	
 	
